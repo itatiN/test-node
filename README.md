@@ -2,6 +2,7 @@
 
 ### Problems
 - Customers need to make appointments but cannot know the available times
+- Customers cannot book an appointment at the same time
 
 ### What am I using?
 - Typescript
